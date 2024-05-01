@@ -21,6 +21,6 @@ To simplify the operation of the alarm clock, each logical subsystem for the clo
 
 ### Extra feature: Media player
 Using the same base directories above, our alarm clock can also be a pretty sweet media player with visualizations! This will involve a new directory:
-* [mediaplayer](mediaplayer.md)
-  * [playlists](playlists.md)
-  * [mediavisualization](mediavisualization.md)
+* [mediaplayer](mediaplayer/)
+  * [playlists](mediaplayer/playlists.md)
+  * [mediavisualization](mediaplayer/mediavisualization.md)
